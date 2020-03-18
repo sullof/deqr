@@ -23,4 +23,4 @@ deqr -i qrcode.png
 
 2019, [Francesco Sullo](https://francesco.sullo.co)
  
-### Enjoy and let me know what do you think :o)
+#### Enjoy and let me know what do you think :o)
