@@ -1,13 +1,25 @@
 # deqr
 A cli tool to decode a QR code image
 
+## Install
 
 
-# Licence 
+```
+npm i -g deqr
+```
+
+## Example
+```
+deqr -i qrcode.png
+
+```
+
+
+## Licence
 
 [MIT](https://opensource.org/licenses/MIT)
 
-# Copyright
+## Copyright
 
 2019, [Francesco Sullo](https://francesco.sullo.co)
  
